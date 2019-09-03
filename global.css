@@ -1,0 +1,22 @@
+body{
+	background: #007bff;
+	padding-top: 	25vh;
+}
+form{
+	background: 	white;
+}
+.form-container{
+	border-radius: 	10px;
+	padding: 	30px;
+	box-shadow: 	0px 0px 10px 0px;
+}
+h4{
+	color: 	#007bff;
+}
+.bg{
+	width: 60px;
+	height: 60px;
+	position: absolute;	
+	top: -35;
+	left: 40%;
+}
