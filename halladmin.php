@@ -76,7 +76,7 @@ require 'functions.php';
 <!-- jumbotron -->
       <div class="jumbotron jumbotron-fluid">
         <div class="container text-center">
-        <h1>Daftar artikel</h1>
+        <h1>Artikel</h1>
 <a href="tambah.php"><button type="button" class="btn btn-primary">tambah artikel</button></a>
 
 </div>
